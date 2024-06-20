@@ -1,0 +1,255 @@
+C:\Users\user\Desktop\miniproject\Tamgotchi\Tamagotchi\bin\Debug\net6.0-windows7.0\Tamagotchi.exe
+C:\Users\user\Desktop\miniproject\Tamgotchi\Tamagotchi\bin\Debug\net6.0-windows7.0\Tamagotchi.deps.json
+C:\Users\user\Desktop\miniproject\Tamgotchi\Tamagotchi\bin\Debug\net6.0-windows7.0\Tamagotchi.runtimeconfig.json
+C:\Users\user\Desktop\miniproject\Tamgotchi\Tamagotchi\bin\Debug\net6.0-windows7.0\Tamagotchi.dll
+C:\Users\user\Desktop\miniproject\Tamgotchi\Tamagotchi\bin\Debug\net6.0-windows7.0\Tamagotchi.pdb
+C:\Users\user\Desktop\miniproject\Tamgotchi\Tamagotchi\obj\Debug\net6.0-windows7.0\Tamagotchi.Kitchen.resources
+C:\Users\user\Desktop\miniproject\Tamgotchi\Tamagotchi\obj\Debug\net6.0-windows7.0\Tamagotchi.Properties.Resources.resources
+C:\Users\user\Desktop\miniproject\Tamgotchi\Tamagotchi\obj\Debug\net6.0-windows7.0\Tamagotchi.csproj.GenerateResource.cache
+C:\Users\user\Desktop\miniproject\Tamgotchi\Tamagotchi\obj\Debug\net6.0-windows7.0\Tamagotchi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\miniproject\Tamgotchi\Tamagotchi\obj\Debug\net6.0-windows7.0\Tamagotchi.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\miniproject\Tamgotchi\Tamagotchi\obj\Debug\net6.0-windows7.0\Tamagotchi.AssemblyInfo.cs
+C:\Users\user\Desktop\miniproject\Tamgotchi\Tamagotchi\obj\Debug\net6.0-windows7.0\Tamagotchi.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\miniproject\Tamgotchi\Tamagotchi\obj\Debug\net6.0-windows7.0\Tamagotchi.dll
+C:\Users\user\Desktop\miniproject\Tamgotchi\Tamagotchi\obj\Debug\net6.0-windows7.0\refint\Tamagotchi.dll
+C:\Users\user\Desktop\miniproject\Tamgotchi\Tamagotchi\obj\Debug\net6.0-windows7.0\Tamagotchi.pdb
+C:\Users\user\Desktop\miniproject\Tamgotchi\Tamagotchi\obj\Debug\net6.0-windows7.0\Tamagotchi.genruntimeconfig.cache
+C:\Users\user\Desktop\miniproject\Tamgotchi\Tamagotchi\obj\Debug\net6.0-windows7.0\ref\Tamagotchi.dll
+C:\Users\user\Desktop\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Tamagotchi.Properties.Resources.resources
+C:\Users\user\Desktop\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Tamagotchi.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Tamagotchi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Tamagotchi.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Tamagotchi.AssemblyInfo.cs
+C:\Users\user\Desktop\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Tamagotchi.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Tamagotchi.dll
+C:\Users\user\Desktop\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\refint\Tamagotchi.dll
+C:\Users\user\Desktop\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Tamagotchi.pdb
+C:\Users\user\Desktop\Tamagotchi (1)\bin\Debug\net6.0-windows7.0\Tamagotchi.exe
+C:\Users\user\Desktop\Tamagotchi (1)\bin\Debug\net6.0-windows7.0\Tamagotchi.deps.json
+C:\Users\user\Desktop\Tamagotchi (1)\bin\Debug\net6.0-windows7.0\Tamagotchi.runtimeconfig.json
+C:\Users\user\Desktop\Tamagotchi (1)\bin\Debug\net6.0-windows7.0\Tamagotchi.dll
+C:\Users\user\Desktop\Tamagotchi (1)\bin\Debug\net6.0-windows7.0\Tamagotchi.pdb
+C:\Users\user\Desktop\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Tamagotchi.genruntimeconfig.cache
+C:\Users\user\Desktop\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\ref\Tamagotchi.dll
+C:\Users\user\Desktop\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Tamagotchi.Livingroom.resources
+C:\Users\user\Desktop\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Tamagotchi.Kitchen.resources
+C:\Users\user\Desktop\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Tamagotchi.Bathroom.resources
+C:\Users\user\Desktop\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Tamagotchi.Form1.resources
+C:\Users\user\Desktop\채린이꺼 추가\Tamagotchi (1)\bin\Debug\net6.0-windows7.0\Tamagotchi.exe
+C:\Users\user\Desktop\채린이꺼 추가\Tamagotchi (1)\bin\Debug\net6.0-windows7.0\Tamagotchi.deps.json
+C:\Users\user\Desktop\채린이꺼 추가\Tamagotchi (1)\bin\Debug\net6.0-windows7.0\Tamagotchi.runtimeconfig.json
+C:\Users\user\Desktop\채린이꺼 추가\Tamagotchi (1)\bin\Debug\net6.0-windows7.0\Tamagotchi.dll
+C:\Users\user\Desktop\채린이꺼 추가\Tamagotchi (1)\bin\Debug\net6.0-windows7.0\Tamagotchi.pdb
+C:\Users\user\Desktop\채린이꺼 추가\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Tamagotchi.Bathroom.resources
+C:\Users\user\Desktop\채린이꺼 추가\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Tamagotchi.Form1.resources
+C:\Users\user\Desktop\채린이꺼 추가\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Tamagotchi.Kitchen.resources
+C:\Users\user\Desktop\채린이꺼 추가\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Tamagotchi.Livingroom.resources
+C:\Users\user\Desktop\채린이꺼 추가\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Tamagotchi.Properties.Resources.resources
+C:\Users\user\Desktop\채린이꺼 추가\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Tamagotchi.csproj.GenerateResource.cache
+C:\Users\user\Desktop\채린이꺼 추가\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Tamagotchi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\채린이꺼 추가\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Tamagotchi.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\채린이꺼 추가\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Tamagotchi.AssemblyInfo.cs
+C:\Users\user\Desktop\채린이꺼 추가\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Tamagotchi.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\채린이꺼 추가\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Tamagotchi.dll
+C:\Users\user\Desktop\채린이꺼 추가\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\refint\Tamagotchi.dll
+C:\Users\user\Desktop\채린이꺼 추가\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Tamagotchi.pdb
+C:\Users\user\Desktop\채린이꺼 추가\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Tamagotchi.genruntimeconfig.cache
+C:\Users\user\Desktop\채린이꺼 추가\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\ref\Tamagotchi.dll
+C:\Users\user\Desktop\채린이꺼 추가\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Tamagotchi.Room.resources
+C:\Users\user\Desktop\채린이꺼 추가\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Tamagotchi.Hospital.resources
+C:\Users\user\Desktop\채린이꺼 추가\준영이형레벨업\Tamagotchi (1)\bin\Debug\net6.0-windows7.0\Tamagotchi.exe
+C:\Users\user\Desktop\채린이꺼 추가\준영이형레벨업\Tamagotchi (1)\bin\Debug\net6.0-windows7.0\Tamagotchi.deps.json
+C:\Users\user\Desktop\채린이꺼 추가\준영이형레벨업\Tamagotchi (1)\bin\Debug\net6.0-windows7.0\Tamagotchi.runtimeconfig.json
+C:\Users\user\Desktop\채린이꺼 추가\준영이형레벨업\Tamagotchi (1)\bin\Debug\net6.0-windows7.0\Tamagotchi.dll
+C:\Users\user\Desktop\채린이꺼 추가\준영이형레벨업\Tamagotchi (1)\bin\Debug\net6.0-windows7.0\Tamagotchi.pdb
+C:\Users\user\Desktop\채린이꺼 추가\준영이형레벨업\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Tamagotchi.Bathroom.resources
+C:\Users\user\Desktop\채린이꺼 추가\준영이형레벨업\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Tamagotchi.Hospital.resources
+C:\Users\user\Desktop\채린이꺼 추가\준영이형레벨업\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Tamagotchi.Kitchen.resources
+C:\Users\user\Desktop\채린이꺼 추가\준영이형레벨업\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Tamagotchi.Livingroom.resources
+C:\Users\user\Desktop\채린이꺼 추가\준영이형레벨업\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Tamagotchi.Properties.Resources.resources
+C:\Users\user\Desktop\채린이꺼 추가\준영이형레벨업\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Tamagotchi.Room.resources
+C:\Users\user\Desktop\채린이꺼 추가\준영이형레벨업\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Tamagotchi.csproj.GenerateResource.cache
+C:\Users\user\Desktop\채린이꺼 추가\준영이형레벨업\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Tamagotchi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\채린이꺼 추가\준영이형레벨업\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Tamagotchi.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\채린이꺼 추가\준영이형레벨업\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Tamagotchi.AssemblyInfo.cs
+C:\Users\user\Desktop\채린이꺼 추가\준영이형레벨업\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Tamagotchi.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\채린이꺼 추가\준영이형레벨업\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Tamagotchi.dll
+C:\Users\user\Desktop\채린이꺼 추가\준영이형레벨업\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\refint\Tamagotchi.dll
+C:\Users\user\Desktop\채린이꺼 추가\준영이형레벨업\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Tamagotchi.pdb
+C:\Users\user\Desktop\채린이꺼 추가\준영이형레벨업\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Tamagotchi.genruntimeconfig.cache
+C:\Users\user\Desktop\채린이꺼 추가\준영이형레벨업\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\ref\Tamagotchi.dll
+C:\Users\user\Desktop\채린이꺼 추가\준영이형레벨업\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Tamagotchi.Night.resources
+C:\Users\user\Desktop\채린이꺼 추가\준영이형레벨업\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Tamagotchi.Cargame.resources
+C:\Users\user\Desktop\채린이꺼 추가\준영이형레벨업\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Tamagotchi.Game1.resources
+C:\Users\user\Desktop\채린이꺼 추가\준영이형레벨업\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Tamagotchi.Join_membership.resources
+C:\Users\user\Desktop\채린이꺼 추가\준영이형레벨업\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Tamagotchi.Loding.resources
+C:\Users\user\Desktop\채린이꺼 추가\준영이형레벨업\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Tamagotchi.Login.resources
+C:\Users\user\Desktop\채린이꺼 추가\준영이형레벨업\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Tamagotchi.Naming.resources
+C:\Users\user\Desktop\채린이꺼 추가\준영이형레벨업\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Tamagotchi.PickUp.resources
+C:\Users\user\Desktop\채린이꺼 추가\준영이형레벨업\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Tamagotchi.Ending_No.resources
+C:\Users\user\Desktop\채린이꺼 추가\준영이형레벨업\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Tamagotchi.Start.resources
+C:\Users\신동민\Desktop\Tamagotchi (게임들어갈때 밤되는 문제, 폰트, bgm, 버튼 글꼴 수정)\Tamagotchi (1)\bin\Debug\net6.0-windows7.0\Tamagotchi.exe
+C:\Users\신동민\Desktop\Tamagotchi (게임들어갈때 밤되는 문제, 폰트, bgm, 버튼 글꼴 수정)\Tamagotchi (1)\bin\Debug\net6.0-windows7.0\Tamagotchi.deps.json
+C:\Users\신동민\Desktop\Tamagotchi (게임들어갈때 밤되는 문제, 폰트, bgm, 버튼 글꼴 수정)\Tamagotchi (1)\bin\Debug\net6.0-windows7.0\Tamagotchi.runtimeconfig.json
+C:\Users\신동민\Desktop\Tamagotchi (게임들어갈때 밤되는 문제, 폰트, bgm, 버튼 글꼴 수정)\Tamagotchi (1)\bin\Debug\net6.0-windows7.0\Tamagotchi.dll
+C:\Users\신동민\Desktop\Tamagotchi (게임들어갈때 밤되는 문제, 폰트, bgm, 버튼 글꼴 수정)\Tamagotchi (1)\bin\Debug\net6.0-windows7.0\Tamagotchi.pdb
+C:\Users\신동민\Desktop\Tamagotchi (게임들어갈때 밤되는 문제, 폰트, bgm, 버튼 글꼴 수정)\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Tamagotchi.Bathroom.resources
+C:\Users\신동민\Desktop\Tamagotchi (게임들어갈때 밤되는 문제, 폰트, bgm, 버튼 글꼴 수정)\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Tamagotchi.Cargame.resources
+C:\Users\신동민\Desktop\Tamagotchi (게임들어갈때 밤되는 문제, 폰트, bgm, 버튼 글꼴 수정)\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Tamagotchi.Ending_No.resources
+C:\Users\신동민\Desktop\Tamagotchi (게임들어갈때 밤되는 문제, 폰트, bgm, 버튼 글꼴 수정)\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Tamagotchi.Game1.resources
+C:\Users\신동민\Desktop\Tamagotchi (게임들어갈때 밤되는 문제, 폰트, bgm, 버튼 글꼴 수정)\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Tamagotchi.Hospital.resources
+C:\Users\신동민\Desktop\Tamagotchi (게임들어갈때 밤되는 문제, 폰트, bgm, 버튼 글꼴 수정)\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Tamagotchi.Join_membership.resources
+C:\Users\신동민\Desktop\Tamagotchi (게임들어갈때 밤되는 문제, 폰트, bgm, 버튼 글꼴 수정)\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Tamagotchi.Kitchen.resources
+C:\Users\신동민\Desktop\Tamagotchi (게임들어갈때 밤되는 문제, 폰트, bgm, 버튼 글꼴 수정)\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Tamagotchi.Livingroom.resources
+C:\Users\신동민\Desktop\Tamagotchi (게임들어갈때 밤되는 문제, 폰트, bgm, 버튼 글꼴 수정)\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Tamagotchi.Loding.resources
+C:\Users\신동민\Desktop\Tamagotchi (게임들어갈때 밤되는 문제, 폰트, bgm, 버튼 글꼴 수정)\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Tamagotchi.Login.resources
+C:\Users\신동민\Desktop\Tamagotchi (게임들어갈때 밤되는 문제, 폰트, bgm, 버튼 글꼴 수정)\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Tamagotchi.Naming.resources
+C:\Users\신동민\Desktop\Tamagotchi (게임들어갈때 밤되는 문제, 폰트, bgm, 버튼 글꼴 수정)\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Tamagotchi.Night.resources
+C:\Users\신동민\Desktop\Tamagotchi (게임들어갈때 밤되는 문제, 폰트, bgm, 버튼 글꼴 수정)\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Tamagotchi.PickUp.resources
+C:\Users\신동민\Desktop\Tamagotchi (게임들어갈때 밤되는 문제, 폰트, bgm, 버튼 글꼴 수정)\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Tamagotchi.Properties.Resources.resources
+C:\Users\신동민\Desktop\Tamagotchi (게임들어갈때 밤되는 문제, 폰트, bgm, 버튼 글꼴 수정)\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Tamagotchi.Room.resources
+C:\Users\신동민\Desktop\Tamagotchi (게임들어갈때 밤되는 문제, 폰트, bgm, 버튼 글꼴 수정)\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Tamagotchi.Start.resources
+C:\Users\신동민\Desktop\Tamagotchi (게임들어갈때 밤되는 문제, 폰트, bgm, 버튼 글꼴 수정)\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Tamagotchi.csproj.GenerateResource.cache
+C:\Users\신동민\Desktop\Tamagotchi (게임들어갈때 밤되는 문제, 폰트, bgm, 버튼 글꼴 수정)\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Tamagotchi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\신동민\Desktop\Tamagotchi (게임들어갈때 밤되는 문제, 폰트, bgm, 버튼 글꼴 수정)\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Tamagotchi.AssemblyInfoInputs.cache
+C:\Users\신동민\Desktop\Tamagotchi (게임들어갈때 밤되는 문제, 폰트, bgm, 버튼 글꼴 수정)\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Tamagotchi.AssemblyInfo.cs
+C:\Users\신동민\Desktop\Tamagotchi (게임들어갈때 밤되는 문제, 폰트, bgm, 버튼 글꼴 수정)\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Tamagotchi.csproj.CoreCompileInputs.cache
+C:\Users\신동민\Desktop\Tamagotchi (게임들어갈때 밤되는 문제, 폰트, bgm, 버튼 글꼴 수정)\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Tamagotchi.dll
+C:\Users\신동민\Desktop\Tamagotchi (게임들어갈때 밤되는 문제, 폰트, bgm, 버튼 글꼴 수정)\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\refint\Tamagotchi.dll
+C:\Users\신동민\Desktop\Tamagotchi (게임들어갈때 밤되는 문제, 폰트, bgm, 버튼 글꼴 수정)\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Tamagotchi.pdb
+C:\Users\신동민\Desktop\Tamagotchi (게임들어갈때 밤되는 문제, 폰트, bgm, 버튼 글꼴 수정)\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Tamagotchi.genruntimeconfig.cache
+C:\Users\신동민\Desktop\Tamagotchi (게임들어갈때 밤되는 문제, 폰트, bgm, 버튼 글꼴 수정)\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\ref\Tamagotchi.dll
+C:\Users\user\Desktop\윈폼 팀 프로젝트\Tamagotchi (1)\bin\Debug\net6.0-windows7.0\Tamagotchi.exe
+C:\Users\user\Desktop\윈폼 팀 프로젝트\Tamagotchi (1)\bin\Debug\net6.0-windows7.0\Tamagotchi.deps.json
+C:\Users\user\Desktop\윈폼 팀 프로젝트\Tamagotchi (1)\bin\Debug\net6.0-windows7.0\Tamagotchi.runtimeconfig.json
+C:\Users\user\Desktop\윈폼 팀 프로젝트\Tamagotchi (1)\bin\Debug\net6.0-windows7.0\Tamagotchi.dll
+C:\Users\user\Desktop\윈폼 팀 프로젝트\Tamagotchi (1)\bin\Debug\net6.0-windows7.0\Tamagotchi.pdb
+C:\Users\user\Desktop\윈폼 팀 프로젝트\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Tamagotchi.Bathroom.resources
+C:\Users\user\Desktop\윈폼 팀 프로젝트\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Tamagotchi.Cargame.resources
+C:\Users\user\Desktop\윈폼 팀 프로젝트\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Tamagotchi.Ending_No.resources
+C:\Users\user\Desktop\윈폼 팀 프로젝트\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Tamagotchi.Game1.resources
+C:\Users\user\Desktop\윈폼 팀 프로젝트\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Tamagotchi.HappyEnding.resources
+C:\Users\user\Desktop\윈폼 팀 프로젝트\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Tamagotchi.Hospital.resources
+C:\Users\user\Desktop\윈폼 팀 프로젝트\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Tamagotchi.Join_membership.resources
+C:\Users\user\Desktop\윈폼 팀 프로젝트\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Tamagotchi.Kitchen.resources
+C:\Users\user\Desktop\윈폼 팀 프로젝트\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Tamagotchi.Livingroom.resources
+C:\Users\user\Desktop\윈폼 팀 프로젝트\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Tamagotchi.Loding.resources
+C:\Users\user\Desktop\윈폼 팀 프로젝트\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Tamagotchi.Login.resources
+C:\Users\user\Desktop\윈폼 팀 프로젝트\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Tamagotchi.Naming.resources
+C:\Users\user\Desktop\윈폼 팀 프로젝트\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Tamagotchi.Night.resources
+C:\Users\user\Desktop\윈폼 팀 프로젝트\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Tamagotchi.PickUp.resources
+C:\Users\user\Desktop\윈폼 팀 프로젝트\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Tamagotchi.Properties.Resources.resources
+C:\Users\user\Desktop\윈폼 팀 프로젝트\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Tamagotchi.Room.resources
+C:\Users\user\Desktop\윈폼 팀 프로젝트\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Tamagotchi.Start.resources
+C:\Users\user\Desktop\윈폼 팀 프로젝트\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Tamagotchi.csproj.GenerateResource.cache
+C:\Users\user\Desktop\윈폼 팀 프로젝트\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Tamagotchi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\윈폼 팀 프로젝트\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Tamagotchi.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\윈폼 팀 프로젝트\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Tamagotchi.AssemblyInfo.cs
+C:\Users\user\Desktop\윈폼 팀 프로젝트\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Tamagotchi.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\윈폼 팀 프로젝트\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Tamagotchi.dll
+C:\Users\user\Desktop\윈폼 팀 프로젝트\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\refint\Tamagotchi.dll
+C:\Users\user\Desktop\윈폼 팀 프로젝트\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Tamagotchi.pdb
+C:\Users\user\Desktop\윈폼 팀 프로젝트\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Tamagotchi.genruntimeconfig.cache
+C:\Users\user\Desktop\윈폼 팀 프로젝트\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\ref\Tamagotchi.dll
+C:\Users\cjfgh\OneDrive\바탕 화면\Tamagotchi (bgm추가 전)\Tamagotchi (1)\bin\Debug\net6.0-windows7.0\Tamagotchi.exe
+C:\Users\cjfgh\OneDrive\바탕 화면\Tamagotchi (bgm추가 전)\Tamagotchi (1)\bin\Debug\net6.0-windows7.0\Tamagotchi.deps.json
+C:\Users\cjfgh\OneDrive\바탕 화면\Tamagotchi (bgm추가 전)\Tamagotchi (1)\bin\Debug\net6.0-windows7.0\Tamagotchi.runtimeconfig.json
+C:\Users\cjfgh\OneDrive\바탕 화면\Tamagotchi (bgm추가 전)\Tamagotchi (1)\bin\Debug\net6.0-windows7.0\Tamagotchi.dll
+C:\Users\cjfgh\OneDrive\바탕 화면\Tamagotchi (bgm추가 전)\Tamagotchi (1)\bin\Debug\net6.0-windows7.0\Tamagotchi.pdb
+C:\Users\cjfgh\OneDrive\바탕 화면\Tamagotchi (bgm추가 전)\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Interop.WMPLib.dll
+C:\Users\cjfgh\OneDrive\바탕 화면\Tamagotchi (bgm추가 전)\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Tamagotchi.csproj.ResolveComReference.cache
+C:\Users\cjfgh\OneDrive\바탕 화면\Tamagotchi (bgm추가 전)\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Tamagotchi.Bathroom.resources
+C:\Users\cjfgh\OneDrive\바탕 화면\Tamagotchi (bgm추가 전)\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Tamagotchi.Cargame.resources
+C:\Users\cjfgh\OneDrive\바탕 화면\Tamagotchi (bgm추가 전)\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Tamagotchi.Ending_No.resources
+C:\Users\cjfgh\OneDrive\바탕 화면\Tamagotchi (bgm추가 전)\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Tamagotchi.Game1.resources
+C:\Users\cjfgh\OneDrive\바탕 화면\Tamagotchi (bgm추가 전)\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Tamagotchi.HappyEnding.resources
+C:\Users\cjfgh\OneDrive\바탕 화면\Tamagotchi (bgm추가 전)\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Tamagotchi.Hospital.resources
+C:\Users\cjfgh\OneDrive\바탕 화면\Tamagotchi (bgm추가 전)\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Tamagotchi.Join_membership.resources
+C:\Users\cjfgh\OneDrive\바탕 화면\Tamagotchi (bgm추가 전)\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Tamagotchi.Kitchen.resources
+C:\Users\cjfgh\OneDrive\바탕 화면\Tamagotchi (bgm추가 전)\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Tamagotchi.Livingroom.resources
+C:\Users\cjfgh\OneDrive\바탕 화면\Tamagotchi (bgm추가 전)\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Tamagotchi.Loding.resources
+C:\Users\cjfgh\OneDrive\바탕 화면\Tamagotchi (bgm추가 전)\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Tamagotchi.Login.resources
+C:\Users\cjfgh\OneDrive\바탕 화면\Tamagotchi (bgm추가 전)\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Tamagotchi.Naming.resources
+C:\Users\cjfgh\OneDrive\바탕 화면\Tamagotchi (bgm추가 전)\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Tamagotchi.Night.resources
+C:\Users\cjfgh\OneDrive\바탕 화면\Tamagotchi (bgm추가 전)\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Tamagotchi.PickUp.resources
+C:\Users\cjfgh\OneDrive\바탕 화면\Tamagotchi (bgm추가 전)\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Tamagotchi.Properties.Resources.resources
+C:\Users\cjfgh\OneDrive\바탕 화면\Tamagotchi (bgm추가 전)\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Tamagotchi.Room.resources
+C:\Users\cjfgh\OneDrive\바탕 화면\Tamagotchi (bgm추가 전)\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Tamagotchi.Start.resources
+C:\Users\cjfgh\OneDrive\바탕 화면\Tamagotchi (bgm추가 전)\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Tamagotchi.csproj.GenerateResource.cache
+C:\Users\cjfgh\OneDrive\바탕 화면\Tamagotchi (bgm추가 전)\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Tamagotchi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cjfgh\OneDrive\바탕 화면\Tamagotchi (bgm추가 전)\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Tamagotchi.AssemblyInfoInputs.cache
+C:\Users\cjfgh\OneDrive\바탕 화면\Tamagotchi (bgm추가 전)\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Tamagotchi.AssemblyInfo.cs
+C:\Users\cjfgh\OneDrive\바탕 화면\Tamagotchi (bgm추가 전)\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Tamagotchi.csproj.CoreCompileInputs.cache
+C:\Users\cjfgh\OneDrive\바탕 화면\Tamagotchi (bgm추가 전)\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Tamagotchi.dll
+C:\Users\cjfgh\OneDrive\바탕 화면\Tamagotchi (bgm추가 전)\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\refint\Tamagotchi.dll
+C:\Users\cjfgh\OneDrive\바탕 화면\Tamagotchi (bgm추가 전)\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Tamagotchi.pdb
+C:\Users\cjfgh\OneDrive\바탕 화면\Tamagotchi (bgm추가 전)\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Tamagotchi.genruntimeconfig.cache
+C:\Users\cjfgh\OneDrive\바탕 화면\Tamagotchi (bgm추가 전)\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\ref\Tamagotchi.dll
+C:\Users\ksagj\Desktop\Project\춘식이 키우기\춘식이 키우기(완성본)\Tamagotchi (bgm추가 전)\Tamagotchi (1)\bin\Debug\net6.0-windows7.0\Tamagotchi.exe
+C:\Users\ksagj\Desktop\Project\춘식이 키우기\춘식이 키우기(완성본)\Tamagotchi (bgm추가 전)\Tamagotchi (1)\bin\Debug\net6.0-windows7.0\Tamagotchi.deps.json
+C:\Users\ksagj\Desktop\Project\춘식이 키우기\춘식이 키우기(완성본)\Tamagotchi (bgm추가 전)\Tamagotchi (1)\bin\Debug\net6.0-windows7.0\Tamagotchi.runtimeconfig.json
+C:\Users\ksagj\Desktop\Project\춘식이 키우기\춘식이 키우기(완성본)\Tamagotchi (bgm추가 전)\Tamagotchi (1)\bin\Debug\net6.0-windows7.0\Tamagotchi.dll
+C:\Users\ksagj\Desktop\Project\춘식이 키우기\춘식이 키우기(완성본)\Tamagotchi (bgm추가 전)\Tamagotchi (1)\bin\Debug\net6.0-windows7.0\Tamagotchi.pdb
+C:\Users\ksagj\Desktop\Project\춘식이 키우기\춘식이 키우기(완성본)\Tamagotchi (bgm추가 전)\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Interop.WMPLib.dll
+C:\Users\ksagj\Desktop\Project\춘식이 키우기\춘식이 키우기(완성본)\Tamagotchi (bgm추가 전)\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Tamagotchi.csproj.ResolveComReference.cache
+C:\Users\ksagj\Desktop\Project\춘식이 키우기\춘식이 키우기(완성본)\Tamagotchi (bgm추가 전)\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Tamagotchi.Bathroom.resources
+C:\Users\ksagj\Desktop\Project\춘식이 키우기\춘식이 키우기(완성본)\Tamagotchi (bgm추가 전)\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Tamagotchi.Cargame.resources
+C:\Users\ksagj\Desktop\Project\춘식이 키우기\춘식이 키우기(완성본)\Tamagotchi (bgm추가 전)\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Tamagotchi.Ending_No.resources
+C:\Users\ksagj\Desktop\Project\춘식이 키우기\춘식이 키우기(완성본)\Tamagotchi (bgm추가 전)\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Tamagotchi.Game1.resources
+C:\Users\ksagj\Desktop\Project\춘식이 키우기\춘식이 키우기(완성본)\Tamagotchi (bgm추가 전)\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Tamagotchi.HappyEnding.resources
+C:\Users\ksagj\Desktop\Project\춘식이 키우기\춘식이 키우기(완성본)\Tamagotchi (bgm추가 전)\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Tamagotchi.Hospital.resources
+C:\Users\ksagj\Desktop\Project\춘식이 키우기\춘식이 키우기(완성본)\Tamagotchi (bgm추가 전)\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Tamagotchi.Join_membership.resources
+C:\Users\ksagj\Desktop\Project\춘식이 키우기\춘식이 키우기(완성본)\Tamagotchi (bgm추가 전)\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Tamagotchi.Kitchen.resources
+C:\Users\ksagj\Desktop\Project\춘식이 키우기\춘식이 키우기(완성본)\Tamagotchi (bgm추가 전)\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Tamagotchi.Livingroom.resources
+C:\Users\ksagj\Desktop\Project\춘식이 키우기\춘식이 키우기(완성본)\Tamagotchi (bgm추가 전)\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Tamagotchi.Loding.resources
+C:\Users\ksagj\Desktop\Project\춘식이 키우기\춘식이 키우기(완성본)\Tamagotchi (bgm추가 전)\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Tamagotchi.Login.resources
+C:\Users\ksagj\Desktop\Project\춘식이 키우기\춘식이 키우기(완성본)\Tamagotchi (bgm추가 전)\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Tamagotchi.Naming.resources
+C:\Users\ksagj\Desktop\Project\춘식이 키우기\춘식이 키우기(완성본)\Tamagotchi (bgm추가 전)\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Tamagotchi.Night.resources
+C:\Users\ksagj\Desktop\Project\춘식이 키우기\춘식이 키우기(완성본)\Tamagotchi (bgm추가 전)\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Tamagotchi.PickUp.resources
+C:\Users\ksagj\Desktop\Project\춘식이 키우기\춘식이 키우기(완성본)\Tamagotchi (bgm추가 전)\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Tamagotchi.Properties.Resources.resources
+C:\Users\ksagj\Desktop\Project\춘식이 키우기\춘식이 키우기(완성본)\Tamagotchi (bgm추가 전)\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Tamagotchi.Room.resources
+C:\Users\ksagj\Desktop\Project\춘식이 키우기\춘식이 키우기(완성본)\Tamagotchi (bgm추가 전)\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Tamagotchi.Start.resources
+C:\Users\ksagj\Desktop\Project\춘식이 키우기\춘식이 키우기(완성본)\Tamagotchi (bgm추가 전)\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Tamagotchi.csproj.GenerateResource.cache
+C:\Users\ksagj\Desktop\Project\춘식이 키우기\춘식이 키우기(완성본)\Tamagotchi (bgm추가 전)\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Tamagotchi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ksagj\Desktop\Project\춘식이 키우기\춘식이 키우기(완성본)\Tamagotchi (bgm추가 전)\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Tamagotchi.AssemblyInfoInputs.cache
+C:\Users\ksagj\Desktop\Project\춘식이 키우기\춘식이 키우기(완성본)\Tamagotchi (bgm추가 전)\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Tamagotchi.AssemblyInfo.cs
+C:\Users\ksagj\Desktop\Project\춘식이 키우기\춘식이 키우기(완성본)\Tamagotchi (bgm추가 전)\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Tamagotchi.csproj.CoreCompileInputs.cache
+C:\Users\ksagj\Desktop\Project\춘식이 키우기\춘식이 키우기(완성본)\Tamagotchi (bgm추가 전)\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Tamagotchi.dll
+C:\Users\ksagj\Desktop\Project\춘식이 키우기\춘식이 키우기(완성본)\Tamagotchi (bgm추가 전)\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\refint\Tamagotchi.dll
+C:\Users\ksagj\Desktop\Project\춘식이 키우기\춘식이 키우기(완성본)\Tamagotchi (bgm추가 전)\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Tamagotchi.pdb
+C:\Users\ksagj\Desktop\Project\춘식이 키우기\춘식이 키우기(완성본)\Tamagotchi (bgm추가 전)\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\Tamagotchi.genruntimeconfig.cache
+C:\Users\ksagj\Desktop\Project\춘식이 키우기\춘식이 키우기(완성본)\Tamagotchi (bgm추가 전)\Tamagotchi (1)\obj\Debug\net6.0-windows7.0\ref\Tamagotchi.dll
+C:\Users\ksagj\Desktop\Project\춘식이 키우기\Tamagotchi_Chunsik\bin\Debug\net6.0-windows7.0\Tamagotchi.exe
+C:\Users\ksagj\Desktop\Project\춘식이 키우기\Tamagotchi_Chunsik\bin\Debug\net6.0-windows7.0\Tamagotchi.deps.json
+C:\Users\ksagj\Desktop\Project\춘식이 키우기\Tamagotchi_Chunsik\bin\Debug\net6.0-windows7.0\Tamagotchi.runtimeconfig.json
+C:\Users\ksagj\Desktop\Project\춘식이 키우기\Tamagotchi_Chunsik\bin\Debug\net6.0-windows7.0\Tamagotchi.dll
+C:\Users\ksagj\Desktop\Project\춘식이 키우기\Tamagotchi_Chunsik\bin\Debug\net6.0-windows7.0\Tamagotchi.pdb
+C:\Users\ksagj\Desktop\Project\춘식이 키우기\Tamagotchi_Chunsik\obj\Debug\net6.0-windows7.0\Interop.WMPLib.dll
+C:\Users\ksagj\Desktop\Project\춘식이 키우기\Tamagotchi_Chunsik\obj\Debug\net6.0-windows7.0\Tamagotchi.csproj.ResolveComReference.cache
+C:\Users\ksagj\Desktop\Project\춘식이 키우기\Tamagotchi_Chunsik\obj\Debug\net6.0-windows7.0\Tamagotchi.Bathroom.resources
+C:\Users\ksagj\Desktop\Project\춘식이 키우기\Tamagotchi_Chunsik\obj\Debug\net6.0-windows7.0\Tamagotchi.Cargame.resources
+C:\Users\ksagj\Desktop\Project\춘식이 키우기\Tamagotchi_Chunsik\obj\Debug\net6.0-windows7.0\Tamagotchi.Ending_No.resources
+C:\Users\ksagj\Desktop\Project\춘식이 키우기\Tamagotchi_Chunsik\obj\Debug\net6.0-windows7.0\Tamagotchi.Game1.resources
+C:\Users\ksagj\Desktop\Project\춘식이 키우기\Tamagotchi_Chunsik\obj\Debug\net6.0-windows7.0\Tamagotchi.HappyEnding.resources
+C:\Users\ksagj\Desktop\Project\춘식이 키우기\Tamagotchi_Chunsik\obj\Debug\net6.0-windows7.0\Tamagotchi.Hospital.resources
+C:\Users\ksagj\Desktop\Project\춘식이 키우기\Tamagotchi_Chunsik\obj\Debug\net6.0-windows7.0\Tamagotchi.Join_membership.resources
+C:\Users\ksagj\Desktop\Project\춘식이 키우기\Tamagotchi_Chunsik\obj\Debug\net6.0-windows7.0\Tamagotchi.Kitchen.resources
+C:\Users\ksagj\Desktop\Project\춘식이 키우기\Tamagotchi_Chunsik\obj\Debug\net6.0-windows7.0\Tamagotchi.Livingroom.resources
+C:\Users\ksagj\Desktop\Project\춘식이 키우기\Tamagotchi_Chunsik\obj\Debug\net6.0-windows7.0\Tamagotchi.Loding.resources
+C:\Users\ksagj\Desktop\Project\춘식이 키우기\Tamagotchi_Chunsik\obj\Debug\net6.0-windows7.0\Tamagotchi.Login.resources
+C:\Users\ksagj\Desktop\Project\춘식이 키우기\Tamagotchi_Chunsik\obj\Debug\net6.0-windows7.0\Tamagotchi.Naming.resources
+C:\Users\ksagj\Desktop\Project\춘식이 키우기\Tamagotchi_Chunsik\obj\Debug\net6.0-windows7.0\Tamagotchi.Night.resources
+C:\Users\ksagj\Desktop\Project\춘식이 키우기\Tamagotchi_Chunsik\obj\Debug\net6.0-windows7.0\Tamagotchi.PickUp.resources
+C:\Users\ksagj\Desktop\Project\춘식이 키우기\Tamagotchi_Chunsik\obj\Debug\net6.0-windows7.0\Tamagotchi.Properties.Resources.resources
+C:\Users\ksagj\Desktop\Project\춘식이 키우기\Tamagotchi_Chunsik\obj\Debug\net6.0-windows7.0\Tamagotchi.Room.resources
+C:\Users\ksagj\Desktop\Project\춘식이 키우기\Tamagotchi_Chunsik\obj\Debug\net6.0-windows7.0\Tamagotchi.Start.resources
+C:\Users\ksagj\Desktop\Project\춘식이 키우기\Tamagotchi_Chunsik\obj\Debug\net6.0-windows7.0\Tamagotchi.csproj.GenerateResource.cache
+C:\Users\ksagj\Desktop\Project\춘식이 키우기\Tamagotchi_Chunsik\obj\Debug\net6.0-windows7.0\Tamagotchi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ksagj\Desktop\Project\춘식이 키우기\Tamagotchi_Chunsik\obj\Debug\net6.0-windows7.0\Tamagotchi.AssemblyInfoInputs.cache
+C:\Users\ksagj\Desktop\Project\춘식이 키우기\Tamagotchi_Chunsik\obj\Debug\net6.0-windows7.0\Tamagotchi.AssemblyInfo.cs
+C:\Users\ksagj\Desktop\Project\춘식이 키우기\Tamagotchi_Chunsik\obj\Debug\net6.0-windows7.0\Tamagotchi.csproj.CoreCompileInputs.cache
+C:\Users\ksagj\Desktop\Project\춘식이 키우기\Tamagotchi_Chunsik\obj\Debug\net6.0-windows7.0\Tamagotchi.dll
+C:\Users\ksagj\Desktop\Project\춘식이 키우기\Tamagotchi_Chunsik\obj\Debug\net6.0-windows7.0\refint\Tamagotchi.dll
+C:\Users\ksagj\Desktop\Project\춘식이 키우기\Tamagotchi_Chunsik\obj\Debug\net6.0-windows7.0\Tamagotchi.pdb
+C:\Users\ksagj\Desktop\Project\춘식이 키우기\Tamagotchi_Chunsik\obj\Debug\net6.0-windows7.0\Tamagotchi.genruntimeconfig.cache
+C:\Users\ksagj\Desktop\Project\춘식이 키우기\Tamagotchi_Chunsik\obj\Debug\net6.0-windows7.0\ref\Tamagotchi.dll

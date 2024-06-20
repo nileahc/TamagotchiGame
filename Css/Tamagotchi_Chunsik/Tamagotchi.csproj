@@ -1,0 +1,127 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows7.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Form1.cs" />
+    <Compile Remove="Form1.Designer.cs" />
+    <Compile Remove="State_Random.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Remove="Form1.resx" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <COMReference Include="WMPLib">
+      <WrapperTool>tlbimp</WrapperTool>
+      <VersionMinor>0</VersionMinor>
+      <VersionMajor>1</VersionMajor>
+      <Guid>6bf52a50-394a-11d3-b153-00c04f79faa6</Guid>
+      <Lcid>0</Lcid>
+      <Isolated>false</Isolated>
+      <EmbedInteropTypes>true</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\춘식이 키우기\장소\7.병원\병원.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\춘식이 키우기\장소\7.병원\무서움.gif" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\춘식이 키우기\장소\7.병원\로이더.gif" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\춘식이 키우기\장소\7.병원\닥터춘식.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\춘식이 키우기\장소\7.병원\헤롱.gif" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\춘식이 키우기\장소\7.병원\오히려.gif" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\춘식이 키우기\장소\7.병원\실수.gif" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\춘식이 키우기\장소\7.병원\병원에온춘식.gif" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\춘식이 키우기\장소\5. 방\공부하기.gif" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\춘식이 키우기\장소\5. 방\낮잠.gif" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\춘식이 키우기\장소\3. 부엌\귤먹기.gif" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\춘식이 키우기\장소\3. 부엌\고구마 먹고 배부른 춘식이.gif" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\춘식이 키우기\장소\3. 부엌\간식먹기.gif" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\춘식이 키우기\장소\4. 화장실\손씻기.gif" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\춘식이 키우기\장소\4. 화장실\목욕하기.gif" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\춘식이 키우기\장소\4. 화장실\똥싸기.gif" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\춘식이 키우기\장소\2. 거실\청소하기.gif" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\춘식이 키우기\장소\2. 거실\운동하기.gif" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\춘식이 키우기\장소\2. 거실\스마트폰보기.gif" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\춘식이 키우기\장소\2. 거실\KakaoTalk_20240130_200239360.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="Properties\Resources.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="Properties\Resources.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+
+</Project>
